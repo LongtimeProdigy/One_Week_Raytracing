@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+cpp/x64
+cpp/.vs
+cpp/One_Week.ea484c49/x64
