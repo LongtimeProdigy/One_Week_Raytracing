@@ -70,5 +70,7 @@
     <ClInclude Include="constant_medium.h">
       <Filter>소스 파일</Filter>
     </ClInclude>
+    <ClInclude Include="onb.h" />
+    <ClInclude Include="pdf.h" />
   </ItemGroup>
 </Project>
