@@ -4,7 +4,6 @@
 - https://github.com/RayTracing/raytracing.github.io/tree/release
 
 ## Complete
-- Complete Week2
 - Sphere, Box, Quad
 - Simple Blur
 - Path with BVH
@@ -13,8 +12,15 @@
 - Diffuse Light
 - Perlin Noise
 - Multi Thread
+- MIS Sampling
 
 ## Result
+#### Width: 600, Sample: 1000, Depth: 50 + Monte Carlo MIS
+![Monte_Carlo_MIS_High](https://github.com/user-attachments/assets/8646ec42-4b78-4948-9b2e-ad7d483b4dbe)
+
+#### Width: 600, Sample: 10, Depth: 50 + Monte Carlo MIS
+![Monte_Carlo_MIS_Low](https://github.com/user-attachments/assets/2884978d-7a60-41cd-8fa9-26548618cd18)
+
 #### Width: 400, Sample: 250, Depth: 4
 ![high_400_250_4](https://github.com/user-attachments/assets/31a54016-4100-4d9d-af6f-1543bb9ea5f4)
 
@@ -23,4 +29,3 @@
 
 ## TODO
 - Web GPU implementation
-- Week3: Light Scattering, MIS(Importance Sampling) ...
