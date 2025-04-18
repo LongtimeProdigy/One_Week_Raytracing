@@ -15,6 +15,9 @@
 - Multi Thread
 
 ## Result
+#### Width: 600, Sample: 1000, Depth: 50 + Monte Carlo mIS
+![Week3_Monte_Carlo_MIS](https://github.com/user-attachments/assets/8646ec42-4b78-4948-9b2e-ad7d483b4dbe)
+
 #### Width: 400, Sample: 250, Depth: 4
 ![high_400_250_4](https://github.com/user-attachments/assets/31a54016-4100-4d9d-af6f-1543bb9ea5f4)
 
